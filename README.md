@@ -1,3 +1,4 @@
+
 # 🚀 Bolt2.0 - AI Website Maker
 
 <div align="center">
@@ -9,6 +10,7 @@
 
 <div align="center">
   <h3>Transform Simple Prompts into Complete Next.js Applications</h3>
+  <p>🎯 <strong>No Templates • No Fluff • Just Clean, Scalable Code</strong></p>
   <p>🎯 <strong>No Templates • No Fluff • Just Clean, Scalable Code</strong></p>
 </div>
 
